@@ -75,7 +75,7 @@ This project showcases how to:
 
 1. **Clone the Repository**
     ```shell
-    git clone https://github.com/kerron-hutton/payload-cms-with-blog.git
+    git clone https://github.com/CodeMaster1025/payload-cms-with-blog.git
     cd payload-cms-with-blog
     ```
 2. **Install Dependencies**
